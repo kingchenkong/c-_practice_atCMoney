@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
