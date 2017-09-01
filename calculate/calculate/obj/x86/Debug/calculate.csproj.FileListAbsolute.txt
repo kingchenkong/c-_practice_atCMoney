@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/calculate/calculate/obj/x86/Debug/calculate.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/calculate/calculate/bin/Debug/calculate.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/calculate/calculate/bin/Debug/calculate.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/calculate/calculate/obj/x86/Debug/calculate.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/calculate/calculate/obj/x86/Debug/calculate.pdb
