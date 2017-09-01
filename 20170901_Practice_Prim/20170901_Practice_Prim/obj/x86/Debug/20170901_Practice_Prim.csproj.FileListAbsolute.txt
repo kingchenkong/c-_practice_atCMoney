@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_Practice_Prim/20170901_Practice_Prim/obj/x86/Debug/20170901_Practice_Prim.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_Practice_Prim/20170901_Practice_Prim/bin/Debug/20170901_Practice_Prim.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_Practice_Prim/20170901_Practice_Prim/bin/Debug/20170901_Practice_Prim.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_Practice_Prim/20170901_Practice_Prim/obj/x86/Debug/20170901_Practice_Prim.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_Practice_Prim/20170901_Practice_Prim/obj/x86/Debug/20170901_Practice_Prim.pdb

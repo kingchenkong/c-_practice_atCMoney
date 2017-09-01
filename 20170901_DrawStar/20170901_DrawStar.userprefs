@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{B2E94B37-2841-49AC-BD25-B765BE76C86F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="calculate/Program.cs">
+﻿<Properties StartupConfiguration="{FD2B6077-1915-4E87-B4F5-30139ECDD31B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20170901_DrawStar/Program.cs">
     <Files>
-      <File FileName="calculate/Program.cs" Line="24" Column="41" />
+      <File FileName="20170901_DrawStar/Program.cs" Line="10" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,5 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.20170901__DrawStar PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

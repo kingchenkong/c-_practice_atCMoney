@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_DrawStar/20170901_DrawStar/bin/Debug/20170901_DrawStar.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_DrawStar/20170901_DrawStar/bin/Debug/20170901_DrawStar.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_DrawStar/20170901_DrawStar/obj/x86/Debug/20170901_DrawStar.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_DrawStar/20170901_DrawStar/obj/x86/Debug/20170901_DrawStar.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170901_DrawStar/20170901_DrawStar/obj/x86/Debug/20170901_DrawStar.pdb
