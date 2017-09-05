@@ -1,0 +1,5 @@
+/Users/kingchenkong/Projects/20170904_chCSharp_practice1/20170904_chCSharp_practice1/bin/Debug/20170904_chCSharp_practice1.exe
+/Users/kingchenkong/Projects/20170904_chCSharp_practice1/20170904_chCSharp_practice1/bin/Debug/20170904_chCSharp_practice1.pdb
+/Users/kingchenkong/Projects/20170904_chCSharp_practice1/20170904_chCSharp_practice1/obj/x86/Debug/20170904_chCSharp_practice1.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/Projects/20170904_chCSharp_practice1/20170904_chCSharp_practice1/obj/x86/Debug/20170904_chCSharp_practice1.exe
+/Users/kingchenkong/Projects/20170904_chCSharp_practice1/20170904_chCSharp_practice1/obj/x86/Debug/20170904_chCSharp_practice1.pdb

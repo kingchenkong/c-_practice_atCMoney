@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{FD2B6077-1915-4E87-B4F5-30139ECDD31B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="20170901_DrawStar/Program.cs">
     <Files>
-      <File FileName="20170901_DrawStar/Program.cs" Line="10" Column="13" />
+      <File FileName="20170901_DrawStar/Program.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

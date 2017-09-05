@@ -1,0 +1,5 @@
+/Users/kingchenkong/Projects/20170904_practice/20170904_practice/obj/x86/Debug/20170904_practice.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/Projects/20170904_practice/20170904_practice/bin/Debug/20170904_practice.exe
+/Users/kingchenkong/Projects/20170904_practice/20170904_practice/bin/Debug/20170904_practice.pdb
+/Users/kingchenkong/Projects/20170904_practice/20170904_practice/obj/x86/Debug/20170904_practice.exe
+/Users/kingchenkong/Projects/20170904_practice/20170904_practice/obj/x86/Debug/20170904_practice.pdb
