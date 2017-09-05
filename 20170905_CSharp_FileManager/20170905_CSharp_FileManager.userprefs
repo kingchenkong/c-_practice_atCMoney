@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1ED7C11B-1745-4D9E-8857-2BD8971B79BF}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../20170904_chCSharp_practice1/20170904_chCSharp_practice1/Program.cs" line="152" offsetX="349" offsetY="2265" expression="arrStr" liveUpdate="False" />
+    <Watch file="../20170904_chCSharp_practice1/20170904_chCSharp_practice1/Program.cs" line="152" offsetX="349" offsetY="2291" expression="arrStr[0]" liveUpdate="False" />
+    <Watch file="../20170904_chCSharp_practice1/20170904_chCSharp_practice1/Program.cs" line="152" offsetX="349" offsetY="2291" expression="arrStr[1]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.20170905__CSharp__FileManager PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170905_CSharp_FileManager/20170905_CSharp_FileManager/bin/Debug/20170905_CSharp_FileManager.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170905_CSharp_FileManager/20170905_CSharp_FileManager/bin/Debug/20170905_CSharp_FileManager.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170905_CSharp_FileManager/20170905_CSharp_FileManager/obj/x86/Debug/20170905_CSharp_FileManager.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170905_CSharp_FileManager/20170905_CSharp_FileManager/obj/x86/Debug/20170905_CSharp_FileManager.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170905_CSharp_FileManager/20170905_CSharp_FileManager/obj/x86/Debug/20170905_CSharp_FileManager.pdb
