@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5B84080A-E3ED-48EB-9DF5-3636816E08C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestCoOrds/EmptyStruct.cs">
+    <Files>
+      <File FileName="TestCoOrds/Program.cs" Line="22" Column="1" />
+      <File FileName="TestCoOrds/SpaseMatrix.cs" Line="15" Column="3" />
+      <File FileName="TestCoOrds/EmptyStruct.cs" Line="4" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.20170911__TestCoOrds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
