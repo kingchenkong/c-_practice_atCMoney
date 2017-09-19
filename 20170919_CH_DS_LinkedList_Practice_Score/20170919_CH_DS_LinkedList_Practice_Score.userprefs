@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C69E288C-4C78-471C-A956-B5148C207509}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20170919_CH_DS_LinkedList_Practice_Score/Program.cs">
+    <Files>
+      <File FileName="20170919_CH_DS_LinkedList_Practice_Score/Program.cs" Line="167" Column="38" />
+      <File FileName="20170919_CH_DS_LinkedList_Practice_Score/Properties/LinkedList.cs" Line="58" Column="25" />
+      <File FileName="20170919_CH_DS_LinkedList_Practice_Score/Properties/Node.cs" Line="24" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.20170919__CH__DS__LinkedList__Practice__Score PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
