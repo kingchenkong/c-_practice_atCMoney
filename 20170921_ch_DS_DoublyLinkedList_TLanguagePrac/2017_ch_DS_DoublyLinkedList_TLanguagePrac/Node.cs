@@ -4,12 +4,18 @@ namespace _ch_DS_DoublyLinkedList_TLanguagePrac
     public class Node
     {
         private string data;
+        private string command;
+        private int args;
+        private int reg;
         private Node prevLink;
         private Node nextLink;
 
-        public Node(string str)
+        public Node(string line, string com, int a, int r)
         {
-            this.data = str;
+            this.data = line;
+            this.command = com;
+            this.args = a;
+            this.reg = r;
         }
 
         // Getter
@@ -24,6 +30,18 @@ namespace _ch_DS_DoublyLinkedList_TLanguagePrac
         public string GetData()
         {
             return this.data;
+        }
+        public string GetCommand()
+        {
+            return this.command;
+        }
+        public int GetArgs()
+        {
+            return this.args;
+        }
+        public int GetRegister()
+        {
+            return this.reg;
         }
 
         // Setter

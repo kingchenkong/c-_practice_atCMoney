@@ -11,12 +11,12 @@ namespace _ch_DS_DoublyLinkedList_TLanguagePrac
 
         public DoublyLinkedList()
         {
-            this.dummyNode = new Node("Dummy");
+            this.dummyNode = new Node("Dummy", "Dummy", 0, 0);
             this.headNode = dummyNode;
             this.rearNode = dummyNode;
         }
         // Getter
-        public Node GetNode(string key)
+        public Node GetNodeByKey(string key)
         {
             // empty list
             if (this.IsEmpty())
@@ -32,6 +32,14 @@ namespace _ch_DS_DoublyLinkedList_TLanguagePrac
             }
             // key is not found
             return null;
+        }
+        public Node GetHeadNode()
+        {
+            return this.headNode;
+        }
+        public Node GetRearNode()
+        {
+            return this.rearNode;
         }
         // Insert
         public void InsertAtHead(Node newNode)
@@ -81,7 +89,7 @@ namespace _ch_DS_DoublyLinkedList_TLanguagePrac
         public bool Delete(string key)
         {
             // search key node
-            Node deleted = this.GetNode(key);
+            Node deleted = this.GetNodeByKey(key);
             // deleted is not found
             if (deleted == null)
                 return false;
