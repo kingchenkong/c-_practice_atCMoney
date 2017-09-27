@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0E7A8F4B-D111-488F-A159-80E039305749}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20170926_QuickSort_practice/Program.cs">
+    <Files>
+      <File FileName="20170926_QuickSort_practice/Program.cs" Line="10" Column="20" />
+      <File FileName="20170926_QuickSort_practice/Trader.cs" Line="89" Column="9" />
+      <File FileName="20170926_QuickSort_practice/Stock.cs" Line="41" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.20170926__QuickSort__practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
