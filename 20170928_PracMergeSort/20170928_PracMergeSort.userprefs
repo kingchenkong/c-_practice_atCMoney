@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{EC1C73F8-84BE-4887-BF91-4AE9A60F9DC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20170928_PracMergeSort/Program.cs">
+    <Files>
+      <File FileName="20170928_PracMergeSort/Program.cs" Line="56" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

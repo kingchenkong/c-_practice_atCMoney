@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_HeapSort/20171002_HeapSort/bin/Debug/20171002_HeapSort.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_HeapSort/20171002_HeapSort/bin/Debug/20171002_HeapSort.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_HeapSort/20171002_HeapSort/obj/x86/Debug/20171002_HeapSort.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_HeapSort/20171002_HeapSort/obj/x86/Debug/20171002_HeapSort.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_HeapSort/20171002_HeapSort/obj/x86/Debug/20171002_HeapSort.pdb

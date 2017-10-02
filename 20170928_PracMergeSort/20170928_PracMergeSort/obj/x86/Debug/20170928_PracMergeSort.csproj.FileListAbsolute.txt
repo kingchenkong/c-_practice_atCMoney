@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170928_PracMergeSort/20170928_PracMergeSort/obj/x86/Debug/20170928_PracMergeSort.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170928_PracMergeSort/20170928_PracMergeSort/bin/Debug/20170928_PracMergeSort.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170928_PracMergeSort/20170928_PracMergeSort/bin/Debug/20170928_PracMergeSort.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170928_PracMergeSort/20170928_PracMergeSort/obj/x86/Debug/20170928_PracMergeSort.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20170928_PracMergeSort/20170928_PracMergeSort/obj/x86/Debug/20170928_PracMergeSort.pdb
