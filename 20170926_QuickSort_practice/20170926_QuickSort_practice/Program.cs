@@ -7,32 +7,66 @@ namespace _QuickSort_practice
         public static void Main(string[] args)
         {
             // Test part
-            Test();
+            //Test();
             // Main part
             // - load in file
-            Trader trader = new Trader("testfile.csv");
+            String importFileName = "testfile.csv";
+            Trader trader = new Trader(importFileName);
+            Console.WriteLine("file: " + importFileName);
             // - sort file as "成交價"
-            trader.SortByPrice(0, trader.GetDataCount() - 1);
-            // - set output file name
             do
             {
+                Console.WriteLine("option: 1)Qucik Sort 2)Merge Sort-natural 3)MergeSort-Recusive 4)Heap Sort : ");
+                string op = Console.ReadLine();
+                if (op == "1")
+                {
+                    trader.QuickSortByPrice(0, trader.GetDataCount() - 1);
+                    break;
+                }
+                else if (op == "2")
+                {
+                    trader.MergeSortByPrice(0, trader.GetDataCount() - 1);
+                    break;
+                }
+                else if (op == "3")
+                {
+					trader.RecusiveMergeSortByPrice(0, trader.GetDataCount() - 1);
+					break;
+                }
+                else if (op == "4")
+                {
+                    trader.HeapSortByPrice(trader.GetDataCount());
+                    break;
+                }
+                else
+                    Console.WriteLine("Error: input illegal.");
+            } while (true);
+            // - set output file name
+            string scanFileName;
+			do
+            {
                 Console.WriteLine("input the Export File Name:");
-                string scanFileName = Console.ReadLine();
+                scanFileName = Console.ReadLine();
                 string[] arrSplit = scanFileName.Split('.');
 
                 // - Foolproof
                 if (arrSplit.Length == 1)
                 {
                     scanFileName += ".csv";
+                    break;
                 }
                 else if (arrSplit.Length > 2 || arrSplit.Length == 0)
                 {
                     Console.WriteLine("Error: File Name illegal.");
                     continue;
                 }
-                trader.SetDestinationFileName(scanFileName);
-                trader.ExportFile();
+                else
+                {
+                    break;
+                }
             } while (true);
+            trader.SetDestinationFileName(scanFileName);
+            trader.ExportFile();
 
         }
         public static void Test()
