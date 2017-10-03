@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_ExternalSort/20171002_ExternalSort/bin/Debug/20171002_ExternalSort.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_ExternalSort/20171002_ExternalSort/bin/Debug/20171002_ExternalSort.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_ExternalSort/20171002_ExternalSort/obj/x86/Debug/20171002_ExternalSort.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_ExternalSort/20171002_ExternalSort/obj/x86/Debug/20171002_ExternalSort.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171002_ExternalSort/20171002_ExternalSort/obj/x86/Debug/20171002_ExternalSort.pdb
