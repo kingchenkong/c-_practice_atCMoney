@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20171003_BinaryTrees", "20171003_BinaryTrees\20171003_BinaryTrees.csproj", "{DFAA2FAB-5273-4F6A-87CA-35215099B81D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20171003_BinaryTrees_Contacts", "20171003_BinaryTrees\20171003_BinaryTrees_Contacts.csproj", "{DFAA2FAB-5273-4F6A-87CA-35215099B81D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

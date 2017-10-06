@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171003_BinaryTrees/20171003_BinaryTrees/obj/x86/Debug/20171003_BinaryTrees_Contacts.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171003_BinaryTrees/20171003_BinaryTrees/bin/Debug/20171003_BinaryTrees.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171003_BinaryTrees/20171003_BinaryTrees/bin/Debug/20171003_BinaryTrees.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171003_BinaryTrees/20171003_BinaryTrees/obj/x86/Debug/20171003_BinaryTrees.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171003_BinaryTrees/20171003_BinaryTrees/obj/x86/Debug/20171003_BinaryTrees.pdb

@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171006_4thExamOnBoard/20171006_4thExamOnBoard/obj/x86/Debug/20171006_4thExamOnBoard.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171006_4thExamOnBoard/20171006_4thExamOnBoard/bin/Debug/20171006_4thExamOnBoard.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171006_4thExamOnBoard/20171006_4thExamOnBoard/bin/Debug/20171006_4thExamOnBoard.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171006_4thExamOnBoard/20171006_4thExamOnBoard/obj/x86/Debug/20171006_4thExamOnBoard.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171006_4thExamOnBoard/20171006_4thExamOnBoard/obj/x86/Debug/20171006_4thExamOnBoard.pdb

@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{DFAA2FAB-5273-4F6A-87CA-35215099B81D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="20171003_BinaryTrees/Program.cs">
+﻿<Properties StartupConfiguration="{ABC0BB1D-A8C6-426F-8860-72CCC7BA58C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortPractice/Program.cs">
     <Files>
-      <File FileName="20171003_BinaryTrees/Program.cs" Line="1" Column="1" />
+      <File FileName="SortPractice/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,5 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SortPractice PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

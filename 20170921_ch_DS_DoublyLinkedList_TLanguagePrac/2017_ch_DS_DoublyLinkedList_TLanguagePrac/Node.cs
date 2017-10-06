@@ -49,7 +49,8 @@ namespace _ch_DS_DoublyLinkedList_TLanguagePrac
         {
             this.data = str;
         }
-        public void SetPrevLink(Node newPrev){
+        public void SetPrevLink(Node newPrev)
+        {
             this.prevLink = newPrev;
         }
         public void SetNextLink(Node newNext)
