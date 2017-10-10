@@ -90,13 +90,13 @@ namespace _BinaryTrees
             else
             {
                 int compare = string.Compare(ptr.GetData()[0], name);
-                if (compare > 0)
-                    this.DeleteRecusive(ptr.GetLeftChild(), ptr, name);
-                else if (compare < 0)
+                if (compare > 0) // "name" ascii is smaller
+                    this.DeleteRecusive(ptr.GetLeftChild(), ptr, name); 
+                else if (compare < 0) // "name" ascii is greater
                     this.DeleteRecusive(ptr.GetRightChild(), ptr, name);
-                else
+                else // "name" is found!!
                 {
-                    // is terminal
+                    // is terminal.
                     if (ptr.GetLeftChild() == null && ptr.GetRightChild() == null)
                     {
                         if (parent.GetLeftChild() == ptr)
@@ -105,46 +105,68 @@ namespace _BinaryTrees
                             parent.SetRightChild(null);
                         return;
                     }
-                    // 節點 沒有 左子樹
-                    if (ptr.GetLeftChild() == null)
+                    else // have child.
                     {
-                        // is root?
-                        if (parent == null)
-                        {
-                            this.root = ptr.GetRightChild();
-                            return;
+						// 節點 沒有 左子樹
+						if (ptr.GetLeftChild() == null)
+						{
+							// is root?
+							if (parent == null)
+							{
+								this.root = ptr.GetRightChild();
+								return;
+							}
+							else
+							{
+								if (parent.GetLeftChild() == ptr)
+									parent.SetLeftChild(ptr.GetRightChild());
+								if (parent.GetRightChild() == ptr)
+									parent.SetRightChild(ptr.GetRightChild());
+								return;
+							}
+						}
+						// 節點 沒有 右子樹
+						else if (ptr.GetRightChild() == null)
+						{
+							// is root?
+							if (parent == null)
+							{
+								this.root = ptr.GetLeftChild();
+								return;
+							}
+							else
+							{
+								if (parent.GetLeftChild() == ptr)
+									parent.SetLeftChild(ptr.GetLeftChild());
+								if (parent.GetRightChild() == ptr)
+									parent.SetRightChild(ptr.GetLeftChild());
+								return;
+							}
                         }
+                        // 節點 有 左右子樹 
                         else
                         {
-                            if (parent.GetLeftChild() == ptr)
-                                parent.SetLeftChild(ptr.GetRightChild());
-                            if (parent.GetRightChild() == ptr)
-                                parent.SetRightChild(ptr.GetRightChild());
-                            return;
+                            //Console.WriteLine("節點 有 左右子樹 ");
+                            // search leftchild maximun
+                            TreeNode temp = ptr.GetLeftChild();
+                            TreeNode tempParent = ptr;
+                            while (temp.GetRightChild() != null)
+                            {
+                                tempParent = temp;
+                                temp = temp.GetRightChild();
+                            }
+                            // have left child.
+                            if (temp.GetLeftChild() != null)
+                            {
+                                tempParent.SetRightChild(temp.GetLeftChild());
+                                ptr.SetData(temp.GetData()[0], temp.GetData()[1]);
+                            }
+                            else // is terminal.
+                            {
+                                tempParent.SetRightChild(null);
+                                ptr.SetData(temp.GetData()[0], temp.GetData()[1]);
+                            }
                         }
-                    }
-                    // 節點 沒有 右子樹
-                    else if (ptr.GetRightChild() == null)
-                    {
-                        // is root?
-                        if (parent == null)
-                        {
-                            this.root = ptr.GetLeftChild();
-                            return;
-                        }
-                        else
-                        {
-                            if (parent.GetLeftChild() == ptr)
-                                parent.SetLeftChild(ptr.GetLeftChild());
-                            if (parent.GetRightChild() == ptr)
-                                parent.SetRightChild(ptr.GetLeftChild());
-                            return;
-                        }
-                    }
-                    // 節點 有 左右子樹 
-                    else
-                    {
-                        
                     }
 				}
             }

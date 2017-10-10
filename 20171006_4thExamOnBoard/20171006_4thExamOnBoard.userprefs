@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0A8168CE-4444-441F-9A65-C3A8DF81AA84}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="20171006_4thExamOnBoard/NQueue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20171006_4thExamOnBoard/Program.cs">
     <Files>
-      <File FileName="20171006_4thExamOnBoard/Program.cs" Line="15" Column="26" />
-      <File FileName="20171006_4thExamOnBoard/NQueue.cs" Line="73" Column="1" />
+      <File FileName="20171006_4thExamOnBoard/Program.cs" Line="43" Column="10" />
+      <File FileName="20171006_4thExamOnBoard/NQueue.cs" Line="90" Column="5" />
       <File FileName="20171006_4thExamOnBoard/ListNode.cs" Line="12" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
