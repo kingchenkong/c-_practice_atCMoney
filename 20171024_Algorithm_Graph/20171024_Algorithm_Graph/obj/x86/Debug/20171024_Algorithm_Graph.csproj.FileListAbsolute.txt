@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171024_Algorithm_Graph/20171024_Algorithm_Graph/bin/Debug/20171024_Algorithm_Graph.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171024_Algorithm_Graph/20171024_Algorithm_Graph/bin/Debug/20171024_Algorithm_Graph.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171024_Algorithm_Graph/20171024_Algorithm_Graph/obj/x86/Debug/20171024_Algorithm_Graph.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171024_Algorithm_Graph/20171024_Algorithm_Graph/obj/x86/Debug/20171024_Algorithm_Graph.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/20171024_Algorithm_Graph/20171024_Algorithm_Graph/obj/x86/Debug/20171024_Algorithm_Graph.pdb
