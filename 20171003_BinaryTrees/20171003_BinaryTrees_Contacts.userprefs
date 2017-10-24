@@ -2,16 +2,14 @@
   <MonoDevelop.Ide.ItemProperties.20171003__BinaryTrees__Contacts PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="20171003_BinaryTrees/BinaryTree.cs">
     <Files>
-      <File FileName="20171003_BinaryTrees/Program.cs" Line="38" Column="1" />
-      <File FileName="20171003_BinaryTrees/BinaryTree.cs" Line="149" Column="6" />
+      <File FileName="20171003_BinaryTrees/Program.cs" Line="15" Column="1" />
+      <File FileName="20171003_BinaryTrees/BinaryTree.cs" Line="74" Column="10" />
       <File FileName="20171003_BinaryTrees/TreeNode.cs" Line="35" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/kingchenkong/c#/c#_practice_atCMoney/20171003_BinaryTrees/20171003_BinaryTrees/BinaryTree.cs" relfile="20171003_BinaryTrees/BinaryTree.cs" line="80" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />

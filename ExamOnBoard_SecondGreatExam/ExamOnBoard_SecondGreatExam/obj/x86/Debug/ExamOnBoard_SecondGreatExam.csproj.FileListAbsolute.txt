@@ -1,0 +1,5 @@
+/Users/kingchenkong/c#/c#_practice_atCMoney/ExamOnBoard_SecondGreatExam/ExamOnBoard_SecondGreatExam/bin/Debug/ExamOnBoard_SecondGreatExam.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/ExamOnBoard_SecondGreatExam/ExamOnBoard_SecondGreatExam/bin/Debug/ExamOnBoard_SecondGreatExam.pdb
+/Users/kingchenkong/c#/c#_practice_atCMoney/ExamOnBoard_SecondGreatExam/ExamOnBoard_SecondGreatExam/obj/x86/Debug/ExamOnBoard_SecondGreatExam.csproj.CoreCompileInputs.cache
+/Users/kingchenkong/c#/c#_practice_atCMoney/ExamOnBoard_SecondGreatExam/ExamOnBoard_SecondGreatExam/obj/x86/Debug/ExamOnBoard_SecondGreatExam.exe
+/Users/kingchenkong/c#/c#_practice_atCMoney/ExamOnBoard_SecondGreatExam/ExamOnBoard_SecondGreatExam/obj/x86/Debug/ExamOnBoard_SecondGreatExam.pdb

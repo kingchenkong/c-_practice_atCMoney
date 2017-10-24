@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{09E5C8E0-E065-4815-BD38-B7AE051BE762}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="20171002_ExternalSort/Program.cs">
     <Files>
-      <File FileName="20171002_ExternalSort/Program.cs" Line="138" Column="57" />
+      <File FileName="20171002_ExternalSort/Program.cs" Line="72" Column="37" />
+      <File FileName="20171002_ExternalSort/BusTable.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

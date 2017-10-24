@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6AD00DA8-933B-4BE6-95DF-5AC679A9F567}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamOnBoard_SecondGreatExam/HashTable.cs">
+    <Files>
+      <File FileName="ExamOnBoard_SecondGreatExam/Program.cs" Line="73" Column="24" />
+      <File FileName="ExamOnBoard_SecondGreatExam/HashTable.cs" Line="111" Column="5" />
+      <File FileName="ExamOnBoard_SecondGreatExam/Data.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kingchenkong/c#/c#_practice_atCMoney/ExamOnBoard_SecondGreatExam/ExamOnBoard_SecondGreatExam/HashTable.cs" relfile="ExamOnBoard_SecondGreatExam/HashTable.cs" line="43" column="35" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExamOnBoard__SecondGreatExam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
